@@ -1,2 +1,2 @@
-# BetterFE
-BetterFE for Minecraft 1.16.3
+# Neue Industrie
+Neue Industrie for Minecraft 1.16.3
